@@ -4,3 +4,7 @@ Source of the data is the official NSE Website:
 * Home > Products > Equities > Indices > Historical Data > [P/E, P/B & Div. Yield values](https://www1.nseindia.com/products/content/equities/indices/historical_pepb.htm)
 * Home > Products > Equities > Indices > Historical Data > [Historical Index Data](https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm)
  
+## Things TODO: 
+1. Add functionality to scrape the data 
+2. Add functionality to merge basic and ratios data
+3. Add functionality to scrape the data for specific equity   
