@@ -493,6 +493,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2002-06-20,2002-05-09,Final,30,0.0,AGM,DEEPAKNTR,06/20/2002,05/09/2002
 2001-05-31,2001-11-07,Final,25,0.0,AGM,DEEPAKNTR,05/31/2001,11/07/2001
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
+2022-05-23,2022-11-08,Final,1500,30.0,Rs.30.0000 per share(1500%)Dividend,DIVISLAB,05/23/2022,11/08/2022
 2021-05-31,2021-08-17,Final,1000,20.0,Rs.20.0000 per share(1000%)Final Dividend,DIVISLAB,05/31/2021,08/17/2021
 2020-12-02,2020-02-25,Interim,800,16.0,Rs.16.0000 per share(800%)Interim Dividend,DIVISLAB,12/02/2020,02/25/2020
 2019-05-27,2019-08-14,Final,800,16.0,Rs.16.0000 per share(800%)Final Dividend,DIVISLAB,05/27/2019,08/14/2019
@@ -518,7 +519,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2019-05-24,2019-07-23,Final,20,2.0,Rs.2.0000 per share(20%)Final Dividend,DIXON,05/24/2019,07/23/2019
 2018-05-28,2018-07-17,Final,20,2.0,Rs.2.0000 per share(20%)Final Dividend,DIXON,05/28/2018,07/17/2018
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
-,,,,,,DMART,NaT,NaT
+,,,,,,DMART,,
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
 2022-05-19,2022-11-07,Final,600,30.0,Rs.30.0000 per share(600%)Final Dividend,DRREDDY,05/19/2022,11/07/2022
 2021-05-14,2021-09-07,Final,500,25.0,Rs.25.0000 per share(500%)Final Dividend,DRREDDY,05/14/2021,09/07/2021
@@ -597,6 +598,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2001-05-24,2001-07-23,Final,20,0.0,AGM,HAVELLS,05/24/2001,07/23/2001
 2000-07-13,2000-11-08,Final,20,0.0,AGM & Dividend,HAVELLS,07/13/2000,11/08/2000
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
+2022-04-07,2022-07-19,Interim,0,0.0,Second Interim Dividend,HCLTECH,04/07/2022,07/19/2022
 2022-01-04,2022-04-28,Interim,900,18.0,Rs.18.0000 per share(900%)Interim Dividend,HCLTECH,01/04/2022,04/28/2022
 2021-12-24,2022-01-20,Interim,500,10.0,Rs.10.0000 per share(500%)Interim Dividend,HCLTECH,12/24/2021,01/20/2022
 2021-09-15,2021-10-21,Interim,500,10.0,Rs.10.0000 per share(500%)Interim Dividend,HCLTECH,09/15/2021,10/21/2021
@@ -828,7 +830,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2001-06-29,2001-07-16,Interim,250,2.5,,HINDUNILVR,06/29/2001,07/16/2001
 2001-02-15,2001-03-27,Final,200,0.0,,HINDUNILVR,02/15/2001,03/27/2001
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
-,,,,,,HNDFDS,NaT,NaT
+,,,,,,HNDFDS,,
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
 2022-04-25,2022-08-08,Final,250,5.0,Rs.5.0000 per share(250%)Final Dividend,ICICIBANK,04/25/2022,08/08/2022
 2021-04-26,2021-07-29,Final,100,2.0,Rs.2.0000 per share(100%)Final Dividend,ICICIBANK,04/26/2021,07/29/2021
@@ -988,7 +990,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2001-12-19,2002-01-23,Interim,20.0,0.0,,KOTAKBANK,12/19/2001,01/23/2002
 2001-07-06,2001-06-25,Final,18.0,0.0,AGM,KOTAKBANK,07/06/2001,06/25/2001
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
-,,,,,,LATENTVIEW,NaT,NaT
+,,,,,,LATENTVIEW,,
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
 2022-04-19,2022-06-30,Final,3000,30.0,Rs.30.0000 per share(3000%)Dividend,LTI,04/19/2022,06/30/2022
 2021-07-10,2021-10-25,Interim,1500,15.0,Rs.15.0000 per share(1500%)Interim Dividend,LTI,07/10/2021,10/25/2021
@@ -1181,7 +1183,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2010-12-07,2010-05-08,Final,30,0.0,,MOLDTKPAC,12/07/2010,05/08/2010
 2009-06-29,2009-09-17,Final,20,0.0,,MOLDTKPAC,06/29/2009,09/17/2009
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
-,,,,,,MOSCHIP,NaT,NaT
+,,,,,,MOSCHIP,,
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
 2021-02-06,2021-03-09,Final,150,1.5,Rs.1.5000 per share(150%)Final Dividend,MOTHERSUMI,02/06/2021,03/09/2021
 2020-02-28,2020-12-03,Interim,150,1.5,Rs.1.5000 per share(150%)Interim Dividend,MOTHERSUMI,02/28/2020,12/03/2020
@@ -1355,7 +1357,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2001-07-03,2001-05-31,Final,60,0.0,AGM & Final Dividend for 2000,NESTLEIND,07/03/2001,05/31/2001
 2001-08-06,2001-05-31,Interim,40,0.0,AGM & Interim Dividend for 2001.,NESTLEIND,08/06/2001,05/31/2001
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
-,,,,,,PARAS,NaT,NaT
+,,,,,,PARAS,,
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
 2022-01-27,2022-08-02,Interim,950.0,95.0,Rs.95.0000 per share(950%)Interim Dividend,PGHH,01/27/2022,08/02/2022
 2021-08-25,2021-09-11,Final,800.0,80.0,Rs.80.0000 per share(800%)Final Dividend,PGHH,08/25/2021,09/11/2021
@@ -1386,6 +1388,7 @@ Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stock
 2001-08-28,2001-04-09,Final,375.0,0.0,AGM,PGHH,08/28/2001,04/09/2001
 2000-10-05,2000-12-05,Final,75.0,0.0,,PGHH,10/05/2000,12/05/2000
 Announcement Date,Ex-Date,Dividend Type,Dividend (%),Dividend (Rs),Remarks,Stockname,Announce Date,Ex Date
+2022-05-18,2022-07-26,Final,1000,10.0,Rs.10.0000 per share(1000%)Dividend,PIDILITIND,05/18/2022,07/26/2022
 2021-12-05,2021-07-27,Final,850,8.5,Rs.8.5000 per share(850%)Final Dividend,PIDILITIND,12/05/2021,07/27/2021
 2020-02-28,2020-03-13,Interim,700,7.0,Rs.7.0000 per share(700%)Interim Dividend,PIDILITIND,02/28/2020,03/13/2020
 2019-05-14,2019-07-29,Final,650,6.5,Rs.6.5000 per share(650%)Dividend,PIDILITIND,05/14/2019,07/29/2019
