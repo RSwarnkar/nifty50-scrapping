@@ -17,3 +17,10 @@ Source of the data is the official NSE Website:
 ## About [NIFTY50](https://www.nseindia.com/national-stock-exchange/about-nse-company): 
 
 The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange. It is one of the two main stock indices used in India, the other being the BSE SENSEX. Indian Stock market is emerging market which is beliveved to cross 
+
+## Update: 
+New Website links for fetching the Data: 
+
+* [Historical Index Data](https://www.nseindia.com/reports-indices-historical-index-data)
+* [Historical Data Reports](https://www.niftyindices.com/reports/historical-data)
+* [PE, PB, Div Yield Values](https://www.niftyindices.com/reports/historical-data)
